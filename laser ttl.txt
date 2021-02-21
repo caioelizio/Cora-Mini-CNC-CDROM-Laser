@@ -1,0 +1,47 @@
+Material: plástico, alumínio TTL
+óculos cor: vermelho
+tamanho: aprox. 33*33*55mm
+comprimento do fio: aprox. 250mm
+Driver tamanho board: aprox. 100*40*40mm
+tamanho: aprox. 101*46*42mm (incluindo ventilador)
+potência de saída: 2 W
+comprimento de onda: 445nm-450nm
+tensão de funcionamento: 12 v
+operacional atual: 2A
+TTL 0-5 V, 0-50 KHz
+mínimo local menos de: 0.5mm
+forma do laser: dot
+Focusable: sim
+à prova d' água: N/A
+temperatura de operação:-0 & #8451; ~ + 70 & #8451;
+temperatura de armazenamento:-40 & #8451; ~ + 85 & #8451;
+características estruturais: o tubo do laser + lente + chumbada habitação
+distância de irradiação: 8 m/315 "
+o resfriamento do dissipador de calor e ventilador função de vidro lente
+Black "-" vermelho " + " módulo de Laser
+Lightspot tamanho: & #65308; 15mm
+vida de serviço: 8000 H
+
+matéria:
+o fornecimento de energia é externo.
+este módulo laser traz modulação TTL, pode trabalhar muito tempo, é realmente a indústria módulo de laser.
+alumínio de aeronaves TTL bordo motorista com ventilador de refrigeração assegurar longo tempo de trabalho de forma contínua.
+fácil de usar.
+durável em uso.
+pode ser usado para a máquina de corte a laser, máquina de gravura do laser, CNC, DIY laser.
+
+pacote inclui:
+1 x Azul Gravador Do Laser Diode Dot Módulo 2000 mw
+1 x 405nm Óculos
+
+nota:
+por favor use óculos de proteção do laser 450nm quando você trabalhar com ele.
+a luz emitida por módulo de laser laser é susceptível de prejudicar persons'eye, por isso não diretamente olhar sua superfície final e desgaste óculos de segurança adequadas para evitar a laser luz quando é trabalhando.
+motorista do laser módulo de Laser precisa apropriado (PCB). quando o módulo de laser se conectar com fonte de alimentação, por favor definir a tensão de saída para zero. o ajuste da corrente deve ser aumentar ou diminuir lentamente para evitar danificar o dispositivo.
+manter o dispositivo de trabalho ou armazenar em ambiente seco.
+trabalhar em altas temperaturas vai aumentar o limite atual, reduzir a eficiência da conversão e acelerar o envelhecimento do dispositivo.
+quando a potência de saída é maior do que é o parâmetro de operação específica, ele vai acelerar o envelhecimento do dispositivo.
+quando a temperatura de funcionamento do laser de diodo é superior a 70 graus, por favor fazer o bem dissipação de calor.
+este módulo laser é eletrostática dispositivo sensível. por favor certifique-se se aterrar ou usar uma pulseira antiestática antes de tomá-lo.
+por favor aguarde 1-2 cm erros devido a medição manual.
+cor do item exibido nas fotos podem estar mostrando um pouco diferente em seu monitor do computador desde que os monitores não são calibrados mesmo.
